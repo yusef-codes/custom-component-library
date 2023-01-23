@@ -1,7 +1,10 @@
 {
-  "name": "component-library-from-scratch",
+  "name": "@yusef-codes/custom-component-library",
   "version": "0.0.1",
   "description": "A component library made from scratch without create-react-app",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/yusef-codes"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "rollup": "rollup -c"
