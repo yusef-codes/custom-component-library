@@ -1,6 +1,6 @@
 {
-  "name": "@yusef-codes/custom-component-library",
-  "version": "0.0.2",
+  "name": "@yusef-codes/custom-component-library-react",
+  "version": "0.0.3",
   "description": "A component library made from scratch without create-react-app",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/yusef-codes"
